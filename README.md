@@ -19,3 +19,21 @@
 [![](https://komarev.com/ghpvc/?username=avikanigam01&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+
+## 🐍 My Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/avikanigam01/avikanigam01/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/avikanigam01/avikanigam01/output/github-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/avikanigam01/avikanigam01/output/github-snake.svg">
+</picture>
+
